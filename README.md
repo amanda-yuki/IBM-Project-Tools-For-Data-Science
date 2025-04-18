@@ -18,7 +18,7 @@ This project was developed as part of the IBM course "Tools for Data Science", w
 
 ## View Notebook
 
-You can view the notebook [here](https://github.com/amanda-yuki/IBM-Project-Tools-For-Data-Science/blob/a193101ec18dc4e2e49671ca8c5a7dba64624ed5/DataScienceEcosystem.ipynb).
+You can view the notebook [here](https://github.com/amanda-yuki/IBM-Project-Tools-For-Data-Science/blob/main/DataScienceEcosystem.ipynb).
 
 ## Author
 
